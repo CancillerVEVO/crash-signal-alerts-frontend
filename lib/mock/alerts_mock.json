@@ -1,0 +1,96 @@
+{
+  "data": {
+    "alerts": [
+      {
+        "tracking_id": "12346",
+        "user_id": "67891",
+        "latitude": 40.7128,
+        "longitude": -74.0060,
+        "time": "2024-09-14T10:35:00Z",
+        "status": "confirmed",
+        "report_status": false
+      },
+      {
+        "tracking_id": "12347",
+        "user_id": "67892",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "time": "2024-09-14T11:00:00Z",
+        "status": "pending",
+        "report_status": true
+      },
+      {
+        "tracking_id": "12348",
+        "user_id": "67893",
+        "latitude": 51.5074,
+        "longitude": -0.1278,
+        "time": "2024-09-14T11:15:00Z",
+        "status": "rejected",
+        "report_status": false
+      },
+      {
+        "tracking_id": "12349",
+        "user_id": "67894",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "time": "2024-09-14T11:30:00Z",
+        "status": "confirmed",
+        "report_status": true
+      },
+      {
+        "tracking_id": "12350",
+        "user_id": "67895",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "time": "2024-09-14T11:45:00Z",
+        "status": "pending",
+        "report_status": false
+      },
+      {
+        "tracking_id": "12351",
+        "user_id": "67896",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "time": "2024-09-14T12:00:00Z",
+        "status": "rejected",
+        "report_status": true
+      },
+      {
+        "tracking_id": "12352",
+        "user_id": "67897",
+        "latitude": 55.7558,
+        "longitude": 37.6173,
+        "time": "2024-09-14T12:15:00Z",
+        "status": "confirmed",
+        "report_status": true
+      },
+      {
+        "tracking_id": "12353",
+        "user_id": "67898",
+        "latitude": 19.4326,
+        "longitude": -99.1332,
+        "time": "2024-09-14T12:30:00Z",
+        "status": "pending",
+        "report_status": false
+      },
+      {
+        "tracking_id": "12354",
+        "user_id": "67899",
+        "latitude": 39.9042,
+        "longitude": 116.4074,
+        "time": "2024-09-14T12:45:00Z",
+        "status": "confirmed",
+        "report_status": true
+      },
+      {
+        "tracking_id": "12355",
+        "user_id": "67900",
+        "latitude": -23.5505,
+        "longitude": -46.6333,
+        "time": "2024-09-14T13:00:00Z",
+        "status": "rejected",
+        "report_status": false
+      }
+    ]
+  }
+}
